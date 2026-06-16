@@ -1,0 +1,10 @@
+node_modules/
+inference/.venv/
+.DS_Store
+*.log
+Applications/build/
+dist/
+out/
+*.app/
+.env
+.env.*
